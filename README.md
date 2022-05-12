@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **urskartik9@gmail.com**
 
-- ⚡ Fun fact **: I wanted to join Indian Air Force**
+- ⚡ Fun fact: ** I wanted to join Indian Air Force**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
