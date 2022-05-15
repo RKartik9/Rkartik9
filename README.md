@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar aka Rohit Kartik</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **Chegg India**
 
@@ -13,7 +14,7 @@
 
 - ⚡ Fun fact **I wanted to join Indian Air Force**
 
-img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartiiiiiik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartiiiiiik" height="30" width="40" /></a>
