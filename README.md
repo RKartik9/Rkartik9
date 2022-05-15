@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Chegg India**
+- 🔭 I’m currently working at **Chegg India**
 
 - 🌱 I’m currently learning **ExpressJs**
 
