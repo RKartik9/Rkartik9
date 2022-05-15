@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I wanted to join Indian Air Force**
 - 
-- ![coding](https://user-images.githubusercontent.com/81758520/168484521-ecee5e2c-df38-4322-8357-ae3717121fce.gif)
+ ![coding](https://user-images.githubusercontent.com/81758520/168484521-ecee5e2c-df38-4322-8357-ae3717121fce.gif)
 
 
 <h3 align="left">Connect with me:</h3>
