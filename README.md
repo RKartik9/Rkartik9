@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **Chegg India**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
