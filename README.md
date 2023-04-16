@@ -13,7 +13,7 @@
 - 📫 How to reach me **rohit.kartik9@gmail.com**
 
 - ⚡ Fun fact **I wanted to join Indian Air Force**
-- **www.bit.ly/rohitkr**
+- **www.bit.ly/krrohit**
 
 
 <h3 align="left">Connect with me:</h3>
