@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **rohit.kartik9@gmail.com**
 
-- ⚡ Fun fact **I wanted to join Indian Air Force**
 - **www.bit.ly/krrohit**
 
 
