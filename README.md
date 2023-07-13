@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **rohit.kartik9@gmail.com**
 
