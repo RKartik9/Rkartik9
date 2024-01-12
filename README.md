@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rohit.kartik9@gmail.com**
 
-- **rohitkartik.in**
+- **https://rohitkartik.in/**
 
 
 <h3 align="left">Connect with me:</h3>
