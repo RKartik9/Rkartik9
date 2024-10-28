@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketaman17&label=Profile%20views&color=0e75b6&style=flat" alt="rkartik9" /> </p> -->
 
-- 🔭 I’m currently working at **Chegg India**
+- 🔭 I’m currently working at **Orangewood Labs**
 
 - 🌱 I’m currently learning **ReactJS**
 
