@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at **Orangewood Labs**
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 👯 I’m looking to collaborate on **Backend Projects**
 
 - 💬 Ask me about **Full Stack Development**
