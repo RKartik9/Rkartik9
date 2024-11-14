@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **rohit.kartik9@gmail.com**
+- 📫 Reach me at **rohit.kartik9@gmail.com**
 
 - **https://rohitkartik.in/**
 
